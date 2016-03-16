@@ -11,4 +11,5 @@ Image img = OlivetTools.ImgeHandler.ImgMerge(200, 300, 5, null,
 img.Save(@"D:\Pictures\allinone.jpg", System.Drawing.Imaging.ImageFormat.Jpeg);
 ```
 #效果图
+（人物图像有经PS处理过）
 ![image](https://github.com/szoliver/ImgMerge/blob/master/allinone.jpg?raw=true)
