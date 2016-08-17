@@ -6,7 +6,7 @@ using System.Web;
 
 namespace OlivetTools
 {
-    public class ImgeHandler
+    public class ImageMergeHelper
     {
         /// <summary>
         /// 将多张图片拼接合并成一张指定大小的图片，各图像进行顺序排列
